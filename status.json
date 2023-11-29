@@ -78,5 +78,46 @@
       "license": "",
       "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
     }
+  },
+  {
+    "url": "https://toobstar.github.io/posts/2023-10-09_timesheets/",
+    "id": "Timesheets: The good, the bad and the ugly - 2023-11-09 -v1",
+    "publishTimestamp": "2023-11-29 16:59:02.742801 +1100 AEDT m=+3.494208167",
+    "mediumResponse": {
+      "id": "010d46f0868c",
+      "title": "Timesheets: The good, the bad and the ugly",
+      "authorId": "1a6a26ae30eeeae86d3881f5f9ad11ada2f28a97cb6e95800753c7077f6708465",
+      "tags": [
+        "cio",
+        "budget",
+        "timesheet",
+        "cost-tracking"
+      ],
+      "url": "https://medium.com/@TobyVidler/010d46f0868c",
+      "canonicalUrl": "https://toobstar.github.io/posts/2023-10-09_timesheets/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
+  },
+  {
+    "url": "https://toobstar.github.io/posts/2023-10-01_risk_theory/",
+    "id": "Risk Management Fundamentals - 2023-10-26 -v1",
+    "publishTimestamp": "2023-11-29 16:59:03.913462 +1100 AEDT m=+4.664868917",
+    "mediumResponse": {
+      "id": "01462a6f65ca",
+      "title": "Risk Management Fundamentals",
+      "authorId": "1a6a26ae30eeeae86d3881f5f9ad11ada2f28a97cb6e95800753c7077f6708465",
+      "tags": [
+        "governance",
+        "risk",
+        "compliance"
+      ],
+      "url": "https://medium.com/@TobyVidler/01462a6f65ca",
+      "canonicalUrl": "https://toobstar.github.io/posts/2023-10-01_risk_theory/",
+      "publishStatus": "draft",
+      "license": "",
+      "licenseUrl": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+    }
   }
 ]
